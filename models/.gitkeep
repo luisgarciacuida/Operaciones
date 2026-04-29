@@ -1,0 +1,3 @@
+# Place your ONNX model files here:
+# - model.onnx (required)
+# - labels.txt (optional, one label per line)
